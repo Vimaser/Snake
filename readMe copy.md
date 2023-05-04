@@ -1,0 +1,1 @@
+I lost my original readme file which had my development thoughts for snake. Right now, pretty much everything is finished, I'm doing touch ups. I'm honestly really satisfied with this project. Besides adding high scores and implementing the start game feature, the only thing left is to have the div buttons functional.
